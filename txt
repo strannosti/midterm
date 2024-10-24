@@ -6,3 +6,6 @@ hot
 resl
 
 rel3
+mas1
+mas2
+mas3
